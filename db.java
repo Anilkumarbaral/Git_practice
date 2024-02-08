@@ -13,4 +13,7 @@ System.out.println(c);
 public void static sub(){
 	System.out.println("Hello");
 }
+public void static dbConnection(){
+	System.out.println("Hello");
+}
 }
