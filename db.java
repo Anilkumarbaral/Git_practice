@@ -10,4 +10,7 @@ public void static sum(){
    int c=a+b;
 System.out.println(c);
 }
+public void static sub(){
+	System.out.println("Hello");
+}
 }
