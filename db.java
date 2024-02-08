@@ -2,6 +2,7 @@ class db
 {
   public static void main(String[]args){
    System.out.println("Hello world");
+  int c=39;
      sum();
   }
 public void static sum(){
